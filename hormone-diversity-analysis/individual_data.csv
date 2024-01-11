@@ -1,0 +1,371 @@
+"team_id","Age","Gender","Ethnicity","Country","Testosterone"
+14,26,"Male","White","USA",134.83
+23,26,"Female","Other","USA",15.28
+14,26,"Male","Hispanic","Chile",96.21
+14,25,"Female","South Asian","India",50.99
+24,27,"Male","White","France",178.66
+16,27,"Male","White","Italy",87.43
+21,27,"Male","Hispanic","Brazil",198.54
+18,30,"Male","White","USA",151.73
+24,32,"Female","White","Croatia",142.86
+18,28,"Male","White","Netherlands",541.23
+28,25,"Male","South Asian","Canada",165.31
+23,33,"Male","South Asian","India",87.43
+16,32,"Female","White","USA",67.75
+19,26,"Female","White","USA",99.49
+18,30,"Male","White","Switzerland",138.35
+19,28,"Male","White","Italy",255.09
+14,28,"Female","White","USA",28.24
+3,29,"Male","White","USA",134.83
+18,30,"Male","White","USA",115.85
+21,31,"Male","Asian","China",171.46
+24,24,"Male","Hispanic","Portugal",54.4
+16,26,"Female","Black","USA",NA
+23,32,"Male","Hispanic","Venezuela",98.3
+21,31,"Male","Other","USA",76.11
+14,28,"Male","White","Russia",139.85
+23,29,"Male","White","USA",343.2
+16,27,"Male","White","Czech Republic",102.3
+18,29,"Female","Hispanic","Mexico",53.04
+19,27,"Male","Hispanic","Spain",93.42
+23,29,"Male","White","USA",251.21
+16,27,"Male","South Asian","Pakistan",79.51
+24,29,"Male","Asian","Taiwan",108.1
+21,24,"Male","White","USA",94.07
+24,25,"Male","White","USA",196.77
+24,24,"Male","White","USA",189.09
+21,26,"Female","White","German",73.7
+6,27,"Male","White","USA",182.73
+6,25,"Male","White","USA",99.68
+4,23,"Female","Asian","USA",39.85
+2,27,"Female","White","USA",53.61
+9,26,"Female","Hispanic","Argentina",37.82
+3,26,"Female","Asian","USA",25.14
+4,26,"Male","White","USA",69.52
+3,27,"Male","White","USA",67.32
+2,NA,"Male","Other","",122.44
+12,30,"Male","White","German",73.04
+3,28,"Male","White","Italy",122.44
+6,31,"Female","White","Netherlands",48.89
+9,31,"Male","White","USA",52.74
+4,31,"Male","Asian","Korea",142.96
+2,29,"Female","White","USA",57.98
+2,27,"Male","South Asian","Canada",179.66
+3,NA,"Male","Other","",66.54
+9,28,"Male","Hispanic","Mexico",173.2
+12,28,"Female","White","Italy",35.53
+12,25,"Male","Hispanic","Brazil",105.64
+12,26,"Male","White","USA",133.34
+9,27,"Male","White","USA",121.4
+4,30,"Female","White","USA",26.46
+12,37,"Male","White","USA",165.61
+5,29,"Female","White","USA",61.38
+12,27,"Male","White","Russia",109.64
+6,26,"Male","South East Asian","USA",110.93
+5,27,"Male","White","Netherlands",192.58
+5,28,"Male","Hispanic","Mexico",118.8
+2,27,"Male","White","USA",72.58
+2,30,"Male","White","USA",120.24
+6,26,"Male","Hispanic","Portugal",111.45
+5,24,"Female","South Asian","India",49.77
+28,29,"Male","South Asian","USA",156.57
+32,29,"Male","White","USA",99.97
+35,27,"Male","White","USA",163.36
+28,30,"Male","Hispanic","Brazil",80.15
+32,29,"Female","Asian","USA",89.51
+36,26,"Male","White","USA",127.57
+34,27,"Male","White","Russia",77.02
+34,27,"Male","White","USA",136.36
+32,28,"Male","Asian","China",80.96
+35,27,"Male","Asian","USA",225.71
+28,29,"Female","White","German",37.45
+27,28,"Female","Asian","USA",35.91
+34,27,"Male","South Asian","India",78.41
+39,26,"Male","White","USA",105.97
+35,32,"Female","Asian","China",57.55
+35,27,"Female","White","German",92.47
+35,25,"Male","South Asian","USA",112.94
+36,24,"Female","White","Canada",44.08
+34,28,"Female","Asian","Canada",95.54
+36,24,"Female","White","USA",35.4
+35,29,"Male","Asian","Korea",111.97
+32,27,"Male","White","Italy",79.67
+34,28,"Male","Hispanic","Mexico",133.27
+39,30,"Male","Other","USA",148.05
+30,26,"Male","White","USA",70.32
+36,28,"Male","White","Canada",NA
+27,27,"Male","White","USA",150.52
+27,29,"Female","White","Israel",54.51
+27,29,"Male","Hispanic","Spain",235.24
+39,29,"Male","White","Netherlands",110.08
+30,28,"Female","White","USA",56.02
+30,25,"Male","South Asian","USA",123.8
+30,31,"Male","Hispanic","Chile",89.58
+27,29,"Male","White","USA",178.82
+28,33,"Male","White","South Africa",94.71
+36,27,"Male","Asian","Australia",106.83
+32,25,"Male","Asian","USA",67.29
+46,28,"Male","White","USA",182.38
+42,33,"Male","White","USA",116.17
+49,28,"Male","White","USA",165.6
+44,27,"Male","White","USA",214.63
+44,25,"Female","South Asian","USA",92.96
+53,29,"Male","White","USA",146.25
+47,30,"Male","South Asian","India",NA
+49,30,"Female","Asian","USA",44.38
+48,29,"Female","White","USA",69.23
+47,28,"Female","White","USA",83.21
+52,28,"Female","Black","USA",72.09
+44,26,"Female","Black","USA",75.41
+42,26,"Female","Asian","USA",105.32
+46,29,"Female","White","USA",60.1
+46,26,"Female","White","USA",38.28
+50,27,"Female","White","USA",26.91
+48,26,"Female","White","USA",52.16
+46,27,"Male","White","USA",129.95
+42,28,"Male","White","USA",165.21
+53,27,"Male","White","USA",196.89
+50,29,"Female","Asian","China",56.91
+50,28,"Male","White","Israel",236.63
+49,29,"Male","Asian","Korea",165.82
+48,30,"Male","White","USA",81.58
+48,30,"Male","Asian","China",116.98
+47,26,"Female","Asian","USA",78.03
+49,28,"Female","White","Switzerland",60.4
+48,26,"Male","Hispanic","Brazil",219.93
+50,28,"Male","White","USA",116.42
+44,27,"Male","Hispanic","Spain",356.7
+44,31,"Male","White","France",148.62
+42,28,"Male","Hispanic","Argentina",123.43
+42,26,"Female","White","USA",38.37
+44,29,"Male","White","USA",150.14
+47,29,"Male","White","USA",126.22
+53,29,"Male","Asian","Korea",243.38
+52,27,"Female","Asian","Taiwan",73.21
+52,29,"Male","Asian","Canada",208.73
+46,31,"Male","Asian","China",187.63
+47,28,"Male","Hispanic","Argentina",158.03
+50,25,"Male","Black","USA",129.62
+49,27,"Male","Hispanic","USA",384.93
+53,27,"Female","Black","USA",60.81
+53,25,"Female","Asian","Canada",155.53
+87,27,"Male","South Asian","USA",118.53
+87,26,"Female","Hispanic","Brazil",26.5
+88,30,"Male","White","Norway",195.51
+93,28,"Male","White","USA",100.76
+84,31,"Male","White","USA",178.56
+91,25,"Male","Black","USA",179.68
+84,29,"Male","White","Israel",98.9
+84,28,"Male","White","USA",117.02
+97,25,"Male","South Asian","USA",83.45
+86,29,"Male","Other","USA",82.62
+93,27,"Male","White","France",136.4
+97,26,"Female","White","USA",39.59
+91,27,"Male","Hispanic","Spain",76.75
+87,29,"Male","White","USA",124.55
+87,26,"Female","Asian","Korea",56.68
+97,27,"Female","Asian","USA",41.36
+94,27,"Male","White","USA",120.07
+92,28,"Male","White","USA",79.45
+97,27,"Male","White","USA",81.7
+93,25,"Female","South Asian","USA",36.07
+95,25,"Female","White","USA",26.66
+94,25,"Female","South Asian","USA",42.74
+96,27,"Male","White","UK",83.22
+93,27,"Female","South East Asian","Thailand",18.04
+96,27,"Female","White","USA",40.1
+91,26,"Female","White","USA",62.58
+88,26,"Male","White","USA",94.55
+96,29,"Male","White","USA",103.43
+92,27,"Male","White","USA",164.83
+97,NA,"Male","Asian","Korea",132.65
+95,26,"Male","South East Asian","Philippines",174.3
+86,28,"Male","South Asian","India",86.36
+95,26,"Female","Black","USA",34.47
+95,31,"Male","White","France",139.92
+92,27,"Female","White","USA",40.18
+92,26,"Female","White","Russia",40.25
+91,32,"Male","Asian","China",97.42
+94,28,"Male","White","Kazakstan",176.69
+88,26,"Female","White","USA",40.92
+84,30,"Female","White","USA",29.11
+96,28,"Male","Asian","Korea",159.26
+87,30,"Male","Hispanic","Spain",97.22
+88,30,"Male","Hispanic","Argentina",155.61
+92,NA,"Male","Hispanic","Chile",167.11
+94,27,"Female","Asian","China",76.43
+96,26,"Female","Other","UAE",55.55
+94,NA,"Male","White","USA",288.3
+86,25,"Female","Asian","China",67.73
+93,29,"Male","White","USA",181.35
+91,29,"Female","Asian","USA",112.8
+88,27,"Female","White","USA",31.56
+84,27,"Male","White","USA",147.6
+88,26,"Male","South Asian","USA",178.36
+95,29,"Male","White","USA",255.86
+84,27,"Female","White","USA",49.43
+86,26,"Male","White","USA",163.23
+99,24,"Male","White","USA",119.32
+110,NA,"Female","South Asian","USA",109.26
+105,29,"Male","White","USA",144.3
+95,28,"Male","White","USA",164.09
+110,28,"Male","White","Serbia",133.5
+107,26,"Female","White","USA",71.63
+111,28,"Male","Black","USA",103.16
+106,27,"Male","Asian","USA",185.21
+108,27,"Male","White","USA",241.57
+105,29,"Male","White","USA",151.66
+102,28,"Male","White","USA",186.09
+111,33,"Male","White","USA",125.17
+105,25,"Female","South Asian","India",76.88
+102,25,"Female","Other","Lebanon",109.5
+108,27,"Female","White","Canada",44.43
+105,25,"Female","Asian","USA",65.62
+99,24,"Female","Asian","USA",51.92
+107,NA,"Male","Hispanic","Chile",168.11
+99,26,"Male","Hispanic","Argentina",96.17
+111,26,"Male","White","USA",178.17
+107,28,"Female","Asian","Korea",82.29
+111,26,"Female","South Asian","USA",35.36
+99,27,"Male","White","USA",192.86
+109,26,"Female","White","USA",51.37
+106,26,"Male","White","USA",172.68
+109,26,"Female","White","USA",44.9
+101,26,"Female","White","USA",92.18
+99,28,"Female","White","USA",88.11
+110,27,"Female","Asian","USA",84.42
+110,26,"Male","South East Asian","Thailand",131.48
+107,28,"Male","White","Iran",196.38
+109,NA,"Male","White","USA",107.79
+108,27,"Male","South Asian","India",174.44
+107,33,"Male","Asian","China",172.99
+108,29,"Male","White","USA",179.43
+108,25,"Female","White","USA",77.65
+109,26,"Male","White","USA",260.74
+102,27,"Female","Black","USA",45.47
+101,28,"Male","Other","Egypt",162.15
+109,26,"Male","Hispanic","Spain",168.56
+102,27,"Male","White","Switzerland",173.03
+105,29,"Male","White","Russia/Israel",178.32
+106,25,"Female","White","Switzerland",63.56
+106,28,"Female","White","USA",42.55
+101,29,"Male","Black","USA",106.78
+101,29,"Female","Asian","China",64.53
+101,28,"Male","White","USA",101.03
+111,27,"Female","Asian","China",78
+106,28,"Male","White","USA",86.92
+111,28,"Male","White","South Africa",154.06
+102,25,"Male","South Asian","India",150.27
+110,25,"Male","Asian","China",117.6
+71,NA,"Female","Asian","Korea ",56.66
+72,27,"Male","South East Asian","Singapore",144.12
+74,28,"Female","Black","USA",128.63
+80,27,"Male","White","USA",185.94
+70,26,"Male","White","USA",90.52
+77,28,"Male","White","USA",152.52
+78,31,"Male","White","USA",143.49
+72,28,"Female","Asian","USA",54.37
+73,29,"Male","Asian","Korea",NA
+78,25,"Female","Asian","China",25.62
+82,26,"Male","Black","Cameroon",112.37
+80,27,"Female","Hispanic","El Salvador",45.93
+81,27,"Female","White","Greece",71.79
+79,26,"Male","White","USA",256.33
+78,25,"Female","White","USA",33.67
+81,26,"Female","Asian","USA",53.73
+81,28,"Male","South Asian","USA",162.88
+77,26,"Male","White","USA",120.53
+69,28,"Female","Asian","Taiwan",22.06
+74,25,"Female","White","USA",87.76
+69,29,"Male","South Asian","India",114.31
+73,28,"Male","South Asian","India",56.67
+70,26,"Female","White","USA",23.64
+73,26,"Female","Hispanic","USA",73
+74,27,"Male","Asian","Taiwan",131.73
+79,26,"Female","White","USA",21.73
+73,26,"Female","White","USA",35.52
+77,27,"Female","Asian","USA",24.28
+82,26,"Female","White","USA",40.3
+72,26,"Male","Hispanic","Colombia",120.85
+80,30,"Male","White","Israel",91.29
+79,25,"Male","White","USA",101.24
+81,28,"Male","White","USA",223.09
+70,23,"Male","Asian","USA",168.53
+80,26,"Male","Black","USA",152.15
+70,27,"Female","South Asian","USA",44.78
+71,26,"Male","White","USA",109.4
+80,28,"Female","White","USA",44.21
+71,26,"Female","White","USA",56.89
+82,31,"Male","Hispanic","Spain",253.43
+74,26,"Male","White","USA",136.08
+72,28,"Female","White","USA",27.06
+72,32,"Male","White","USA",139.63
+77,26,"Female","South Asian","USA",68.36
+81,27,"Male","Hispanic","Argentina",126.86
+78,27,"Male","White","UK",173.87
+71,NA,"Male","Hispanic","Argentina",100.1
+74,29,"Male","White","France",108.29
+70,27,"Male","Hispanic","Brazil",134.71
+73,27,"Male","White","USA",91.91
+77,28,"Male","Asian","China",133.53
+69,28,"Male","Hispanic","Mexico",138.67
+82,27,"Female","Asian","USA",39.53
+79,27,"Male","White","USA",126.84
+82,29,"Male","White","USA",143.85
+69,25,"Male","White","USA",179.42
+74,28,"Male","South Asian","India",134.2
+69,31,"Male","White","USA",89.71
+79,27,"Female","White","Bulgaria",62.07
+71,28,"Male","White","USA",198.66
+69,25,"Female","White","USA",73.63
+86,NA,"Female","White","USA",59.81
+63,27,"Male","White","USA",102.14
+61,27,"Female","White","USA",61.54
+62,25,"Male","South Asian","India",88.43
+61,26,"Male","White","USA",111.13
+52,28,"Male","Black","USA",95.66
+65,26,"Male","Asian","Korea",NA
+64,28,"Female","White","USA",17.33
+55,27,"Male","White","USA",115.06
+64,27,"Male","South Asian","India",63.13
+57,27,"Male","White","USA",122.66
+55,31,"Male","White","USA",110.8
+60,26,"Male","White","USA",134.31
+58,28,"Male","South Asian","India",120.39
+65,27,"Male","White","USA",95.67
+58,28,"Male","Asian","China",133.38
+57,27,"Male","South Asian","USA",160.05
+61,25,"Male","South Asian","USA",119.96
+63,28,"Male","White","France",200.37
+66,NA,"Female","Black","Uganda",52.4
+57,32,"Male","White","Israel",67.46
+55,26,"Male","South Asian","India",92.8
+55,27,"Female","Asian","China",44.52
+62,28,"Male","White","USA",105.75
+60,27,"Male","Hispanic","Argentina",156.27
+65,27,"Female","White","USA",62.65
+66,26,"Male","White","USA",177.1
+66,31,"Male","Hispanic","Spain",197.08
+57,26,"Female","White","USA",42.51
+62,27,"Female","White","USA",35.66
+61,26,"Female","Asian","USA",90.43
+65,26,"Female","White","USA",31.17
+58,26,"Female","White","Israel",55.92
+55,26,"Female","Hispanic","Colombia",40.63
+66,25,"Female","White","USA",16.08
+64,26,"Female","Black","USA",29.23
+60,25,"Female","White","Turkey",68.4
+63,NA,"Male","Asian","China",116.57
+63,28,"Female","White","USA",27.58
+66,27,"Male","White","USA",109.06
+58,28,"Male","White","USA",96.67
+58,26,"Female","White","USA",23.13
+64,26,"Male","Hispanic","Argentina",113.3
+63,28,"Female","White","USA",69.9
+57,27,"Female","Asian","China",64.94
+62,27,"Male","Asian","USA",152.72
+60,26,"Male","White","USA",96.13
+62,26,"Female","Asian","Japan",46.62
+60,27,"Female","White","USA",48.3
+55,28,"Male","Black","USA",148.54
+52,27,"Male","White","USA",82.12
