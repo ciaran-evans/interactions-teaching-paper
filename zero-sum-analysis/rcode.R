@@ -169,6 +169,29 @@ pdf("cooleyoutlier.pdf", width = 6, height = 4)
 (p1 | p2) / (p3 | p4)
 dev.off()
 
+####################################
+# Summarize Model
+####################################
+mod.sum <- summary(model)
+####################################
+# Add Confidence Intervals
+####################################
+mod.table <- cbind(mod.sum$coefficients, confint(model))
+
+mod.table <- data.frame(mod.table) %>%
+  mutate(Term = rownames(.)) %>%
+  relocate(Term) %>%
+  set_rownames(NULL) %>%
+  set_colnames(c("Term", "Estimate", "SE", "t", "p-value", "Lower CI", "Upper CI"))
+
+####################################
+# Print Summary
+####################################
+mod.table %>%
+  mutate_if(is.numeric, round, 4) %>%
+  mutate(`p-value` = ifelse(`p-value` < 0.0001, "<0.0001", `p-value`))
+
+
 
 ####################################
 # ANOVA Table
