@@ -64,10 +64,7 @@ cleaned_team_data <- individual_data |>
   summarize(log_testosterone = mean(log_testosterone, na.rm=T)) |>
   inner_join(team_data, by = "team_id") |>
   ungroup() |>
-  mutate(time_of_day = scale(time_of_day),
-         team_size = scale(team_size),
-         prop_female = scale(prop_female),
-         fau = scale(fau))
+  mutate(fau = scale(fau))
 
 write.csv(cleaned_team_data, "cleaned_team_data.csv", 
           row.names = F)
@@ -263,6 +260,26 @@ anova.table %>%
   print(include.rownames = F)
 
 
+mod.table <- cbind(summary(m1)$coefficients, confint(m1))
+
+mod.table <- data.frame(mod.table) %>%
+  mutate(Term = rownames(.)) %>%
+  relocate(Term) %>%
+  set_rownames(NULL) %>%
+  set_colnames(c("Term", "Estimate", "SE", "t", "p-value", "Lower CI", "Upper CI")) |>
+  mutate(EffectSize = c(NA, epsilon_squared(m1)$Epsilon2_partial))
+
+
+####################################
+# Print Summary
+####################################
+mod.table %>%
+  mutate_if(is.numeric, round, 4) %>%
+  mutate(`p-value` = ifelse(`p-value` < 0.0001, "<0.0001", `p-value`)) |>
+  xtable::xtable() |>
+  print(include.rownames = F)
+
+
 ####################################
 # Calculate Marginal Effects
 ####################################
@@ -367,7 +384,8 @@ p <- jn$plot + xlab("Homogeneity (Z)") +
   ylab(paste("Slope of ", "log(Testosterone)", sep = "")) + 
   ggtitle("Johnson-Neyman Plot") + 
   scale_color_grey("Slope of log(Testosterone)") + 
-  scale_fill_grey("Slope of log(Testosterone)") + theme_bw()
+  scale_fill_grey("Slope of log(Testosterone)") + theme_bw() +
+  geom_vline(xintercept = jn$bounds)
 
 pdf("mba_jn.pdf", width = 6, height = 3)
 p
